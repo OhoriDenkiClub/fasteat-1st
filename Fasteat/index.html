@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>2024文化祭食券システム ホーム - Fasteat</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="stylesheet.css" />
+</head>
+<body>
+    <header id="header">
+        <a href="https://ohori.ed.jp" id="logo"><img src="ogp_logo.png" alt="OHORI"></a>
+    </header>
+    <div id="loader1"><div id="loader_inside"><div>Moving to Home</div><br><br><div>Loading...</div></div></div>
+    <div id="loader2"><div id="loader_inside"><div id="loader_inside2">Moving to </div><br><br><div id="loader_inside3">Loading...</div></div></div>
+    <div id="hamberger_menu">
+        <input id="drawer_input" class="drawer_hidden" type="checkbox">
+        <label for="drawer_input" class="drawer_open"><span></span></label>
+        <nav class="nav_content">
+            <div class="nav_list">
+                <label for="num_input" class="nav_item"><span>番号確認</span><svg xmlns="http://www.w3.org/2000/svg" width="7.728" height="16.077" viewBox="0 0 7.728 16.077"><path d="M0,0,7.432,5.674,14.864,0" transform="translate(0.795 15.47) rotate(-90)" fill="none" stroke="#fff" stroke-width="2"></path></svg></label>
+                <a href="history.html" class="nav_item">制作秘話</a>
+                <!-- <label for="contact_input" class="nav_item"><span>システムの利用を申し込む</span><svg xmlns="http://www.w3.org/2000/svg" width="7.728" height="16.077" viewBox="0 0 7.728 16.077"><path d="M0,0,7.432,5.674,14.864,0" transform="translate(0.795 15.47) rotate(-90)" fill="none" stroke="#fff" stroke-width="2"></path></svg></label> -->
+                <!-- <div class="nav_item"><a href="">モバイルオーダー</a></div> -->
+            </div>
+            <input id="num_input" class="drawer_hidden" type="checkbox">
+            <input id="contact_input" class="drawer_hidden" type="checkbox">
+            <div class="num_content">
+                <div class="sign">番号確認</div>
+                <div class="num_list">
+                    <label for="num_input" class="back"><span>戻る</span></label>
+                    <div class="scroll">
+                        <ul id="classlist"></ul>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="contact_content">
+                <div class="sign">システムの利用を申し込む</div>
+                <div class="contact_list">
+                    <label for="contact_input" class="back"><span>戻る</span></label>
+                </div>
+                <div id="contact_exp">本システムは学校や企業などへの提供を検討しています。本システムの利用をご検討の場合は下記フォームにアクセスし、必要事項をご記入ください。</div>
+                <hr style="width: 90% ;right: 0;left: 0;margin: auto;">
+                <a href="https://forms.gle/jDrzzdpKQyL9UJiQ8">申し込みフォームに移動する</a>
+                <hr style="width: 90% ;right: 0;left: 0;margin: auto;">
+            </div> -->
+<!--           <input id="morder_input" class="drawer_hidden" type="checkbox">
+            <div class="morder_content">
+                <div class="sign">モバイルオーダー</div>
+                <div class="morder_list">
+                    <label for="morder_input" class="back"><span>戻る</span></label>
+                    <div class="scroll">
+                        <ul>
+                            <li class="morder_item"><a href="">1</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+-->
+        </nav>
+    </div>
+
+    <div id="title" class="title-anim">Fasteat</div>
+    <div id="title2">文化祭に革命を</div>
+    <div id="scroll">
+        <div id="scroll1" class="title-anim">スクロール</div>
+        <div id="scroll2" class="scroll-anim">↓</div>
+    </div>
+    <div id="spacer"></div>
+    <div id="how-to-use">
+        <div id="how-to-use-label1" class="label-s"><span>How to use</span></div>
+        <div id="how-to-use-label2" class="label-l"><span>使い方</span></div>
+        <div id="how-to-use-ul">
+            <div class="how-to-use-li" id="how-to-use-1"><div class="how-to-use-num">1.</div><div class="how-to-use-content">右上の三本線(≡)を押す</div></div>
+            <div class="how-to-use-li" id="how-to-use-2"><div class="how-to-use-num">2.</div><div class="how-to-use-content">「番号確認」を押す</div></div>
+            <div class="how-to-use-li" id="how-to-use-3"><div class="how-to-use-num">3.</div><div class="how-to-use-content">番号を確認したい店舗名を押す</div></div>
+            <div class="how-to-use-li" id="how-to-use-4"><div class="how-to-use-num">4.</div><div class="how-to-use-content"><span>表示番号が</span><span>自分の番号以上になったら</span><span>受け取り可能です</span></div></div>
+        </div>
+    </div>
+    <div id="faq">
+        <div id="faq-label1" class="label-s">FAQ</div>
+        <div id="faq-label2" class="label-l scalable-label">よくある質問</div>
+        <div class="swiper" id="faqswiper">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+            <!-- Slides -->
+                <div class="swiper-slide"><div class="swiper-inside1">整理券を失くしました</div><div class="swiper-inside2">店頭スタッフにお声掛けください。注文したことが確認できれば、ご購入いただけます。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">待ち時間の目安は？</div><div class="swiper-inside2">各店舗の番号確認サイトの下部に待ち時間の計算式を表示しています。各店舗によって計算式が異なることに注意してください。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">複数商品を注文した場合の受け取りは？</div><div class="swiper-inside2">すべての商品の準備が出来次第受け取り可能です。別々に受け取りたい場合は別々にご注文ください。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">注文後の注文内容の変更はできますか</div><div class="swiper-inside2">追加注文であれば一度並び直してから再度追加分を注文してください。数量を減らしたい場合は店舗スタッフにキャンセルを申し出た後、再度注文してください。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">番号確認サイトにアクセスできません</div><div class="swiper-inside2">店頭スタッフにお声掛けください。できるだけ早く復旧いたします。また、店頭でも番号を確認することができます。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">一度に何個まで注文することができますか</div><div class="swiper-inside2">一度の注文数に限りはございませんが、大量の商品を調理するのにはお時間をいただく場合がございます。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">商品が売り切れた場合は？</div><div class="swiper-inside2">申し訳ございませんが商品をお渡しすることはできません。また、この情報は各店舗の番号確認サイトで確認することができます。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">支払いはいつすれば良いですか</div><div class="swiper-inside2">商品受け渡し時にお支払いいただきます。その際必ず整理券をお持ちください。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">他の人の分もまとめて受け取れますか</div><div class="swiper-inside2">はい、受け取ることができます。その際は受け取る分の整理券を全てお持ちください。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">整理券を他人に譲渡しても良いですか</div><div class="swiper-inside2">構いませんが、お支払いは商品受け取り時であることに注意してください。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">注文のキャンセルはできますか</div><div class="swiper-inside2">はい、可能です。店頭スタッフにその旨をお申し付けください。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">番号確認サイトの番号が更新されません</div><div class="swiper-inside2">一度ブラウザの更新ボタンを押してください。それでも治らず、かつ店頭の番号と異なる場合は、店頭スタッフにお申し付けください。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">支払い方法は？</div><div class="swiper-inside2">現金のみとなっております。ご了承ください。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">複数の店舗の整理券を一度に持っておくことはできますか</div><div class="swiper-inside2">はい、可能です。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">受け取り可能になるまでは何をすれば良いですか</div><div class="swiper-inside2">ご自由に文化祭をお楽しみください。他の店舗の注文をすることも可能です。そのためのこのシステムですから。</div></div>
+                <div class="swiper-slide"><div class="swiper-inside1">整理券の有効期限は？</div><div class="swiper-inside2">当日の文化祭終了まで有効です。たとえば1日目に注文した整理券を2日目に使用することはできません。</div></div>
+            </div>
+        </div>
+    </div>
+    <div id="intro">
+        <div id="intro-label1" class="label-s">紹介しましょう</div>
+        <div id="intro-label2" class="label-l scalable-label">全く新しい<br>レジシステムです。</div>
+        <div id="intro-content">
+            <img id="intro-img" src="images/intro/intro.png" alt="">
+            <div id="intro-inside" class="scalable-inside">Fasteatは、大濠高校電気部が開発した、全く新しいレジシステムです。このシステムを活用することで、大濠中学・高校文化祭で例年問題となっていた、食品企画の長蛇の列を解消することができます。</div>
+        </div>
+    </div>
+    <div id="ui">
+        <div id="ui-label1" class="label-s">UI・UX</div>
+        <div id="ui-label2" class="label-l scalable-label">もっと使いやすく。<br>デザインには一番こだわりました。</div>
+        <div id="ui-content">
+            <img id="ui-img" src="images/ui/ui.png" alt="">
+            <div id="ui-inside" class="scalable-inside">Fasteatは、店舗側にも来場者側にも使いやすいようにデザインに最も重きを置いて開発されています。デザインこそが何事においても最も重要です。美しいデザインとはどれだけシンプルで見やすいか、直感的に認知しやすいかです。機能も素晴らしく、デザインが洗練されているものこそが真に優れたものと言えるでしょう。そしてFasteatはその一つです。</div>
+        </div>
+    </div>
+    <div id="func1">
+        <div id="func-label1" class="label-s">機能性</div>
+        <div id="func-label2" class="label-l scalable-label">こんなにも多機能。<br>しかも完全リアルタイム。</div>
+        <div id="func-inside1" class="scalable-inside">Fasteatは、様々なニーズに合わせてたくさんの機能を備えています。</div>
+    </div>
+    <div id="spacer2"></div>
+    <div id="func2">
+        <div class="func-inside" id="func-inside2">レジの基本的な機能はもちろん</div>
+        <div class="func-inside" id="func-inside3">これまでの注文を確認したり</div>
+        <div class="func-inside" id="func-inside4">売上統計をグラフにすることも</div>
+        <div class="func-inside" id="func-inside5">様々な情報を皆さんにお伝えすることだってできます。</div>
+        <img src="images/func/reception.png" alt="" class="func-img" id="func-reception">
+        <img src="images/func/order.png" alt="" class="func-img" id="func-order">
+        <img src="images/func/graph.png" alt="" class="func-img" id="func-graph">
+        <img src="images/func/setting.png" alt="" class="func-img" id="func-setting">
+        <img src="images/func/ipad.png" alt="" class="func-img" id="func-ipad">
+    </div> 
+    
+    <div id="func3">
+        <div id="func-inside6">ですが何よりもすごいことは、その全てが完全リアルタイムで、更新作業を一切する必要がないまま表示が更新されることです。実際に番号表示ページを更新せずにずっと眺めてみてください。目の前でその素晴らしい現象を見ることができますよ。</div>
+    </div>
+
+    <footer>
+        <div id="footer-inside">
+            <div id="footer-image">
+                <img id="denki_logo" src="denki_logo.PNG" alt="Logo">
+            </div>
+            <div id="footer-text">福岡大学附属大濠高等学校　電気部</div>
+        </div>
+    </footer>
+
+    <script src="scroll_animation.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="swiper.js"></script>
+    <script src="index.js"></script>
+
+</body>
+</html>

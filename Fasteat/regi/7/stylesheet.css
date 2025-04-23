@@ -1,0 +1,340 @@
+body{
+    height:100vh;
+    width:100vw;
+    overflow: hidden;
+    margin: 0;
+    touch-action: manipulation;
+}
+#nav_bar{
+    text-align: center;
+    height:100%;
+    width: 30%;
+    top: 0%;
+    left: 0%;
+    background-color: rgb(242, 242, 247);
+    transition: 0.5s;
+    display:flex;
+    flex-flow: column;
+    margin: 0;
+    justify-content: space-between;
+    position: absolute;
+}
+#nav_button{
+    width: 100%;
+    display:flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+}
+#nav_flip{
+    display:none;
+}
+#nav_flip_item{
+    width: fit-content;
+    height: fit-content;
+    top: 2%;
+    left: 2%;
+    position: absolute;
+    z-index: 100;
+}
+#nav_flip_item > i{
+    color: rgb(142, 27, 64);
+    font-size: 35px;
+}
+#nav_flip:checked ~ #nav_bar{
+    width:0%;
+}
+#nav_flip:checked ~ #nav_bar *{
+    display: none;
+}
+#nav_flip:checked ~ #nav_content{
+    width: 100%;
+}
+.nav_item{
+    left: 0%;
+    width: 90%;
+    height: fit-content;
+    background-color: rgb(242, 242, 247);
+    text-align: left;
+    font-size: 25px;
+}
+input[name="nav_input"]{
+    display: none;
+}
+#ohori-icon{
+    resize: both;
+    width: auto;
+    height: auto;
+    bottom: 0%;
+    left: 0%;
+}
+#nav_content{
+    height: 100%;
+    width: 70%;
+    top: 0%;
+    right: 0%;
+    transition: 0.5s;
+    position: absolute;
+}
+.view{
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    display: none;
+}
+#order_view{
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+#order:checked ~ #order_nav, #reception:checked ~ #reception_nav, #num:checked ~ #num_nav, #charts:checked ~ #charts_nav, #settings:checked ~ #settings_nav, #open:checked ~ #label-for-open, #pause:checked ~ #label-for-pause, #close:checked ~ #label-for-close, #on:checked ~ #label-for-on, #off:checked ~ #label-for-off{
+    background-color:rgb(142, 27, 64);
+    color: white;
+}
+.prods{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    background-color: rgb(242, 242, 247);
+    justify-content: space-between;
+    align-items: center;
+}
+.prod-num-input{
+    height: 50%;
+    width: 12%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    margin: 0;
+    background-color: rgb(227, 227, 231);
+}
+.prod-num-btn{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(227, 227, 231);
+    border: 0;
+    text-align: center;
+    font-size: 20px;
+}
+.prod-num-output{
+    background-color:rgb(242, 242, 247);
+}
+.order-prods-partition{
+    color: rgb(215, 215, 220);
+}
+.order-send-button{
+    height: 7%;
+    width: 10%;
+    background-color: rgb(142, 27, 64);
+    border: 0;
+    color: white;
+    font-size: 13px;
+}
+.order-confirm{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    background: transparent;
+    position: absolute;
+    z-index: 999;
+    align-items: center;
+    justify-content: center;
+    -webkit-backdrop-filter: blur(50px);
+    backdrop-filter: blur(50px);
+    transition: 0.5s;
+    visibility: hidden;
+    opacity: 0;
+}
+#order-confirm-inside{
+    height: 450px;
+    width: 450px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+}
+#next-order-number{
+    font-size: 230px;
+}
+#order-send-or-cancel{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.order-send{
+    height: 50px;
+    width: 35%;
+    vertical-align: middle;
+    color: white;
+    border: 0;
+    font-size: 20px;
+}
+#order-send-cancel{
+    background-color: red;
+}
+#order-send-continue{
+    background-color: dodgerblue;
+}
+#reception_view{
+    flex-flow: column;
+    align-items: center;
+}
+#reception-table-head{
+    height: 10%;
+    width: 80%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#reception-table{
+    height: 90%;
+    width: 80%;
+}
+#reception-result{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    overflow: auto;
+}
+.reception-inside{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(242, 242, 247);
+    font-size: 30px;
+    margin-top: 10px;
+}
+#num_view{
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+}
+#num_view_num{
+    font-size: 400px;
+    text-align: center;
+    height: fit-content;
+    width: 100%;
+}
+#num_view_1, #num_view_2{
+    font-size: 25px;
+    text-align: center;
+    height: fit-content;
+    width: 100%;
+}
+#num_view_3{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    height: fit-content;
+    width: 100%;
+}
+#charts_view{
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+#settings_view{
+    flex-flow: column;
+    align-items: center;
+}
+.setting-inside{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+.setting-labels{
+    font-size: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+.setting-button{
+    border:1px solid black;
+    border-radius: 15px;
+    font-size: 35px;
+    height: fit-content;
+    width: fit-content;
+}
+.cook-time{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+}
+#cook-time-button{
+    color: white;
+    border:  1px solid black;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(142, 27, 64);
+}
+.spacer{
+    width: 0cm;
+}
+.order-confirm-after{
+    visibility: visible;
+    opacity: 1;
+}
+.order-send-button-after{
+    background-color: rgb(142, 142, 147);
+}
+.loader {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: inline-block;
+    border-top: 3px solid rgb(142, 27, 64);
+    border-right: 3px solid transparent;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+    margin-top: 0px;
+}
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+} 
+.displayblock{
+    display: block;
+}
+.displayflex{
+    display: flex;
+}
+.border-radius-1{
+    border-radius: 10px;
+}
+.width-fit-content{
+    width: fit-content;
+}
+.height-fit-content{
+    height: fit-content;
+}
+.text-align-center{
+    text-align: center;
+}
+.display-none{
+    display: none;
+}

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="history.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>制作秘話 - Fasteat</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header id="header">
+        <a href="https://ohori.ed.jp" id="logo"><img src="ogp_logo.png" alt="OHORI"></a>
+    </header>
+    <div id="loader1"><div id="loader_inside"><div>Moving to History</div><br><br><div>Loading...</div></div></div>
+    <div id="loader2"><div id="loader_inside"><div id="loader_inside2">Moving to </div><br><br><div id="loader_inside3">Loading...</div></div></div>
+    <div id="hamberger_menu">
+        <input id="drawer_input" class="drawer_hidden" type="checkbox">
+        <label for="drawer_input" class="drawer_open"><span></span></label>
+        <nav class="nav_content">
+            <div class="nav_list">
+                <a href="index.html" class="nav_item">ホーム</a>
+                <label for="num_input" class="nav_item"><span>番号確認</span><svg xmlns="http://www.w3.org/2000/svg" width="7.728" height="16.077" viewBox="0 0 7.728 16.077"><path d="M0,0,7.432,5.674,14.864,0" transform="translate(0.795 15.47) rotate(-90)" fill="none" stroke="#fff" stroke-width="2"></path></svg></label>
+                <!-- <div class="nav_item"><a href="">モバイルオーダー</a></div> -->
+                <!-- <div class="nav_item"><a href="">システムを申し込む<i class='bx bx-link-external'></i></a></div> -->
+            </div>
+            <input id="num_input" class="drawer_hidden" type="checkbox">
+            <div class="num_content">
+                <div class="sign">番号確認</div>
+                <div class="num_list">
+                    <label for="num_input" class="back"><span>戻る</span></label>
+                    <div class="scroll">
+                        <ul id="classlist"></ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div id="spacer"></div>
+    <div id="title">制作秘話</div>
+    <div id="line"></div>
+    <div id="dot1">&#9679;</div>
+    <div id="dot2">&#9679;</div>
+    <div id="23" class="year">23年</div>
+    <div id="23-9" class="right container">
+        <div class="container2">
+            <div class="dot">&#9679;</div>
+            <div class="line2"></div>
+            <div class="month">9月</div>
+        </div>
+        <div class="content">とある数学科の先生から、同県の他校の生徒が文化祭で食品売り上げを記録するシステムを自作し、運用したという話を聞く
+            そにことに興味を持ち色々調べていると、東京の某高校生が、マ○ドナルドの呼び出しシステムを再現して失敗したという記事を見つける
+            その記事を元に、もっと改良したものを作り運用しようと決意する
+            上の記事ではDBとしてFirebaseを使っていたためそれの使い方を勉強する
+            とりあえずお客様が見る用のwebサイトを作り始める、ただいかんせんhtml,css,jsを触るのが初めてなので、そこを学習するところからだった
+        </div>
+    </div>
+    <div id="23-10" class="left container">
+        <div class="container2">
+            <div class="month">10月</div>
+            <div class="line2"></div>
+            <div class="dot">&#9679;</div>
+        </div>
+        <div class="content">なんやかんやで前述のwebサイトが出来上がったので、今度はレジアプリの開発を始める
+            当初はswiftでネイティブアプリとして作っていた、そっちの方が安定性が高いと考えたためだ
+            Swiftも何ならxcodeも触るのが初めてだったのでまたそこの学習からだった、ただswiftはjsとか昨年ゲーム製作をした時に勉強したc++とかと結構似てて扱いやすかった
+        </div>
+    </div>
+    <div id="23-12" class="right container">
+        <div class="container2">
+            <div class="dot">&#9679;</div>
+            <div class="line2"></div>
+            <div class="month">12月</div>
+        </div>
+        <div class="content">レジアプリがほぼ完成してあとは微調整するだけという段階になったのでアプリ導入の準備をしようと思った
+            ただ、色々調べるとAppleのアプリ監査が厳しかったり、生徒全員にアプリ配布するのは学校からの様々な規制があるということでPWAへの移行を考え始めた
+            htmlでforループを使った表示をすることはできず、するならPHPでやらないといけないということを知る
+            お客様用のwebサイトをFirebaseホスティングに置いてたのでそうすればいいやと思っていたが、Firebaseはphpに対応しておらず、awsのec2を使ってホスティングすることにした
+        </div>
+    </div>
+    <div id="24" class="year">24年</div>
+    <div id="24-1" class="left container">
+        <div class="container2">
+            <div class="month">1月</div>
+            <div class="line2"></div>
+            <div class="dot">&#9679;</div>
+        </div>
+        <div class="content">生徒会に対するシステム説明会を行なった、ここで今年度の文化祭でシステムを利用していいか、生徒会側が様々な方面でバックアップをしてくれるかなどを協議した
+            ここではまだPWA版のレジアプリの制作に着手していなかったため、ネイティブアプリ版で説明を行なった
+            ちなみにこの時期に早々に生徒会説明会を行なったのは、このあと教職員説明会、生徒説明会など様々な説明会や交渉を行わなければならないことを予測していたからだ
+        </div>
+    </div>
+    <div id="24-2" class="right container">
+        <div class="container2">
+            <div class="dot">&#9679;</div>
+            <div class="line2"></div>
+            <div class="month">2月</div>
+        </div>
+        <div class="content">phpやec2の勉強したりしながらPWA版のアプリ開発を進めた
+            Linux自体は中学時代にマインクラフトのサーバーを建てたりしてちょっと触ったことはあったが、ec2そのものやphpを触ったことはもちろん全くなく、結構苦戦した
+        </div>
+    </div>
+    <div id="24-3" class="left container">
+        <div class="container2">
+            <div class="month">3,4月</div>
+            <div class="line2"></div>
+            <div class="dot">&#9679;</div>
+        </div>
+        <div class="content">urlをとったり、DNSを設定したり、SSL化をしたりととにかく新しいことの連続で超大変だった
+            ちなみにurlはお名前.comでとり、DNSにはmydnsを、SSL証明書にはLet's encryptを使った。どれも無料で、理解したらめちゃめちゃ簡単に使えるのでおすすめ
+        </div>
+    </div>
+    <div id="24-5" class="right container">
+        <div class="container2">
+            <div class="dot">&#9679;</div>
+            <div class="line2"></div>
+            <div class="month">5月</div>
+        </div>
+        <div class="content">なんと体育祭のブロック団、しかもパネル長を務めさせていただいた
+            高三ということで受験勉強もしなければならず多忙すぎる日々の連続だった
+            Firebaseに置いていたお客様用webサイトをec2の方に移した、Firebaseはgoogleの検索結果に引っ掛からなかったが、こうすることで引っかかるようにした
+            ここでアプリ開発、webサイト制作は終了していた、正直半年で勉強もしながらここまでできたのはかなりハイペースだったと思う
+        </div>
+    </div>
+    <div id="24-6" class="left container">
+        <div class="container2">
+            <div class="month">6,7月</div>
+            <div class="line2"></div>
+            <div class="dot">&#9679;</div>
+        </div>
+        <div class="content">学校側に本システムについての説明を提出し、無事職員会議を通過した
+            前述した通り5月の段階では開発が終了していたので5月中に職員説明会も終わらせる予定だったが、体育祭などの行事でこの時期になってしまった
+            学校の制度はとても複雑でたくさんの手順を踏まなければならず大変だった
+        </div>
+    </div>
+    <footer>
+        <div id="footer-inside">
+            <div id="footer-image">
+                <img id="denki_logo" src="denki_logo.PNG" alt="Logo">
+            </div>
+            <div id="footer-text">福岡大学附属大濠高等学校　電気部</div>
+        </div>
+    </footer>
+    <script src="history.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>

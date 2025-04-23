@@ -1,0 +1,3496 @@
+{
+    "17": {
+        "num": 17,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "18": {
+        "num": 18,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "1": {
+        "cooked": true,
+        "received": true
+    },
+    "2": {
+        "cooked": true,
+        "received": true
+    },
+    "3": {
+        "cooked": true,
+        "received": true
+    },
+    "4": {
+        "cooked": true,
+        "received": true
+    },
+    "5": {
+        "cooked": true,
+        "received": true
+    },
+    "6": {
+        "cooked": true,
+        "received": true
+    },
+    "7": {
+        "cooked": true,
+        "received": true
+    },
+    "8": {
+        "cooked": true,
+        "received": true
+    },
+    "9": {
+        "cooked": true,
+        "received": true
+    },
+    "10": {
+        "cooked": true,
+        "received": true
+    },
+    "11": {
+        "cooked": true,
+        "received": true
+    },
+    "12": {
+        "cooked": true,
+        "received": true
+    },
+    "13": {
+        "cooked": true,
+        "received": true
+    },
+    "14": {
+        "cooked": true,
+        "received": true
+    },
+    "15": {
+        "cooked": true,
+        "received": true
+    },
+    "16": {
+        "cooked": true,
+        "received": true
+    },
+    "19": {
+        "num": 19,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "20": {
+        "num": 20,
+        "prod1": 2,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "21": {
+        "num": 21,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "22": {
+        "num": 22,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "23": {
+        "num": 23,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "24": {
+        "num": 24,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "25": {
+        "num": 25,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "26": {
+        "num": 26,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "27": {
+        "num": 27,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "28": {
+        "num": 28,
+        "prod1": 0,
+        "prod2": 2,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "29": {
+        "num": 29,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "30": {
+        "num": 30,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "31": {
+        "num": 31,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "32": {
+        "num": 32,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "33": {
+        "num": 33,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "34": {
+        "num": 34,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "35": {
+        "num": 35,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "36": {
+        "num": 36,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "37": {
+        "num": 37,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "38": {
+        "num": 38,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "39": {
+        "num": 39,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "40": {
+        "num": 40,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "41": {
+        "num": 41,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "42": {
+        "num": 42,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "43": {
+        "num": 43,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "44": {
+        "num": 44,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "45": {
+        "num": 45,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "46": {
+        "num": 46,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "47": {
+        "num": 47,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "48": {
+        "num": 48,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "49": {
+        "num": 49,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "50": {
+        "num": 50,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "51": {
+        "num": 51,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "52": {
+        "num": 52,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "53": {
+        "num": 53,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "54": {
+        "num": 54,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "55": {
+        "num": 55,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "56": {
+        "num": 56,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "57": {
+        "num": 57,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "58": {
+        "num": 58,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "59": {
+        "num": 59,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 3,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "60": {
+        "num": 60,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "61": {
+        "num": 61,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "62": {
+        "num": 62,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "63": {
+        "num": 63,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "64": {
+        "num": 64,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "65": {
+        "num": 65,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "66": {
+        "num": 66,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "67": {
+        "num": 67,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "68": {
+        "num": 68,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "69": {
+        "num": 69,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "70": {
+        "num": 70,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 9
+    },
+    "71": {
+        "num": 71,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "72": {
+        "num": 72,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "73": {
+        "num": 73,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "74": {
+        "num": 74,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "75": {
+        "num": 75,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "76": {
+        "num": 76,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "77": {
+        "num": 77,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "78": {
+        "num": 78,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "79": {
+        "num": 79,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "80": {
+        "num": 80,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "81": {
+        "num": 81,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "82": {
+        "num": 82,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "83": {
+        "num": 83,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "84": {
+        "num": 84,
+        "prod1": 3,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "85": {
+        "num": 85,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "86": {
+        "num": 86,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "87": {
+        "num": 87,
+        "prod1": 1,
+        "prod2": 2,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "88": {
+        "num": 88,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "89": {
+        "num": 89,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "90": {
+        "num": 90,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "91": {
+        "num": 91,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "92": {
+        "num": 92,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "93": {
+        "num": 93,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "94": {
+        "num": 94,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "95": {
+        "num": 95,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "96": {
+        "num": 96,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "97": {
+        "num": 97,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "98": {
+        "num": 98,
+        "prod1": 0,
+        "prod2": 2,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "99": {
+        "num": 99,
+        "prod1": 0,
+        "prod2": 2,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "100": {
+        "num": 100,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "101": {
+        "num": 101,
+        "prod1": 2,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "102": {
+        "num": 102,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "103": {
+        "num": 103,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "104": {
+        "num": 104,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "105": {
+        "num": 105,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "106": {
+        "num": 106,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "107": {
+        "num": 107,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "108": {
+        "num": 108,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "109": {
+        "num": 109,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "110": {
+        "num": 110,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "111": {
+        "num": 111,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "112": {
+        "num": 112,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "113": {
+        "num": 113,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "114": {
+        "num": 114,
+        "prod1": 1,
+        "prod2": 2,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "115": {
+        "num": 115,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 3,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "116": {
+        "num": 116,
+        "prod1": 2,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "117": {
+        "num": 117,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "118": {
+        "num": 118,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "119": {
+        "num": 119,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "120": {
+        "num": 120,
+        "prod1": 2,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "121": {
+        "num": 121,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "122": {
+        "num": 122,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "123": {
+        "num": 123,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "124": {
+        "num": 124,
+        "prod1": 2,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "125": {
+        "num": 125,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": true,
+        "received": true,
+        "hour": 10
+    },
+    "126": {
+        "num": 126,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "127": {
+        "num": 127,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "128": {
+        "num": 128,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 4,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "129": {
+        "num": 129,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "130": {
+        "num": 130,
+        "prod1": 3,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "131": {
+        "num": 131,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "132": {
+        "num": 132,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "133": {
+        "num": 133,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "134": {
+        "num": 134,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "135": {
+        "num": 135,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "136": {
+        "num": 136,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "137": {
+        "num": 137,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "138": {
+        "num": 138,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "139": {
+        "num": 139,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "140": {
+        "num": 140,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 10
+    },
+    "141": {
+        "num": 141,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "142": {
+        "num": 142,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "143": {
+        "num": 143,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "144": {
+        "num": 144,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "145": {
+        "num": 145,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "146": {
+        "num": 146,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "147": {
+        "num": 147,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "148": {
+        "num": 148,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "149": {
+        "num": 149,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "150": {
+        "num": 150,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "151": {
+        "num": 151,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "152": {
+        "num": 152,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "153": {
+        "num": 153,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "154": {
+        "num": 154,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "155": {
+        "num": 155,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "156": {
+        "num": 156,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "157": {
+        "num": 157,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "158": {
+        "num": 158,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "159": {
+        "num": 159,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "160": {
+        "num": 160,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "161": {
+        "num": 161,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "162": {
+        "num": 162,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "163": {
+        "num": 163,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "164": {
+        "num": 164,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "165": {
+        "num": 165,
+        "prod1": 0,
+        "prod2": 2,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "166": {
+        "num": 166,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "167": {
+        "num": 167,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "168": {
+        "num": 168,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "169": {
+        "num": 169,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "170": {
+        "num": 170,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "171": {
+        "num": 171,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "172": {
+        "num": 172,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "173": {
+        "num": 173,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "174": {
+        "num": 174,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "175": {
+        "num": 175,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "176": {
+        "num": 176,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "177": {
+        "num": 177,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "178": {
+        "num": 178,
+        "prod1": 2,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "179": {
+        "num": 179,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "180": {
+        "num": 180,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "181": {
+        "num": 181,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "182": {
+        "num": 182,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "183": {
+        "num": 183,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "184": {
+        "num": 184,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "185": {
+        "num": 185,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "186": {
+        "num": 186,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "187": {
+        "num": 187,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "188": {
+        "num": 188,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "189": {
+        "num": 189,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "190": {
+        "num": 190,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "191": {
+        "num": 191,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "192": {
+        "num": 192,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "193": {
+        "num": 193,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "194": {
+        "num": 194,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "195": {
+        "num": 195,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "196": {
+        "num": 196,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "197": {
+        "num": 197,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "198": {
+        "num": 198,
+        "prod1": 2,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "199": {
+        "num": 199,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "200": {
+        "num": 200,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 2,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "201": {
+        "num": 201,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "202": {
+        "num": 202,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "203": {
+        "num": 203,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "204": {
+        "num": 204,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "205": {
+        "num": 205,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 11
+    },
+    "206": {
+        "num": 206,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "207": {
+        "num": 207,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "208": {
+        "num": 208,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "209": {
+        "num": 209,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "210": {
+        "num": 210,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "211": {
+        "num": 211,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "212": {
+        "num": 212,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "213": {
+        "num": 213,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "214": {
+        "num": 214,
+        "prod1": 0,
+        "prod2": 2,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "215": {
+        "num": 215,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "216": {
+        "num": 216,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "217": {
+        "num": 217,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "218": {
+        "num": 218,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "219": {
+        "num": 219,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "220": {
+        "num": 220,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "221": {
+        "num": 221,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "222": {
+        "num": 222,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "223": {
+        "num": 223,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "224": {
+        "num": 224,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "225": {
+        "num": 225,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "226": {
+        "num": 226,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "227": {
+        "num": 227,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "228": {
+        "num": 228,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "229": {
+        "num": 229,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "230": {
+        "num": 230,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "231": {
+        "num": 231,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "232": {
+        "num": 232,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "233": {
+        "num": 233,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "234": {
+        "num": 234,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "235": {
+        "num": 235,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "236": {
+        "num": 236,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "237": {
+        "num": 237,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "238": {
+        "num": 238,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "239": {
+        "num": 239,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "240": {
+        "num": 240,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "241": {
+        "num": 241,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "242": {
+        "num": 242,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "243": {
+        "num": 243,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "244": {
+        "num": 244,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "245": {
+        "num": 245,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "246": {
+        "num": 246,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "247": {
+        "num": 247,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 3,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "248": {
+        "num": 248,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "249": {
+        "num": 249,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "250": {
+        "num": 250,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "251": {
+        "num": 251,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "252": {
+        "num": 252,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "253": {
+        "num": 253,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "254": {
+        "num": 254,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "255": {
+        "num": 255,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "256": {
+        "num": 256,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "257": {
+        "num": 257,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "258": {
+        "num": 258,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "259": {
+        "num": 259,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 4,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "260": {
+        "num": 260,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 3,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "261": {
+        "num": 261,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "262": {
+        "num": 262,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "263": {
+        "num": 263,
+        "prod1": 1,
+        "prod2": 2,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 12
+    },
+    "264": {
+        "num": 264,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "265": {
+        "num": 265,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "266": {
+        "num": 266,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "267": {
+        "num": 267,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "268": {
+        "num": 268,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "269": {
+        "num": 269,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 2,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "270": {
+        "num": 270,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "271": {
+        "num": 271,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "272": {
+        "num": 272,
+        "prod1": 2,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "273": {
+        "num": 273,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "274": {
+        "num": 274,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "275": {
+        "num": 275,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "276": {
+        "num": 276,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "277": {
+        "num": 277,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "278": {
+        "num": 278,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "279": {
+        "num": 279,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "280": {
+        "num": 280,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "281": {
+        "num": 281,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "282": {
+        "num": 282,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "283": {
+        "num": 283,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "284": {
+        "num": 284,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "285": {
+        "num": 285,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "286": {
+        "num": 286,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "287": {
+        "num": 287,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "288": {
+        "num": 288,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "289": {
+        "num": 289,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "290": {
+        "num": 290,
+        "prod1": 0,
+        "prod2": 2,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "291": {
+        "num": 291,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "292": {
+        "num": 292,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "293": {
+        "num": 293,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "294": {
+        "num": 294,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "295": {
+        "num": 295,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "296": {
+        "num": 296,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "297": {
+        "num": 297,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "298": {
+        "num": 298,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "299": {
+        "num": 299,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "300": {
+        "num": 300,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "301": {
+        "num": 301,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "302": {
+        "num": 302,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "303": {
+        "num": 303,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "304": {
+        "num": 304,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "305": {
+        "num": 305,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "306": {
+        "num": 306,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "307": {
+        "num": 307,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "308": {
+        "num": 308,
+        "prod1": 2,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "309": {
+        "num": 309,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "310": {
+        "num": 310,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "311": {
+        "num": 311,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "312": {
+        "num": 312,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "313": {
+        "num": 313,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "314": {
+        "num": 314,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "315": {
+        "num": 315,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "316": {
+        "num": 316,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "317": {
+        "num": 317,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "318": {
+        "num": 318,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "319": {
+        "num": 319,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "320": {
+        "num": 320,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "321": {
+        "num": 321,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "322": {
+        "num": 322,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "323": {
+        "num": 323,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "324": {
+        "num": 324,
+        "prod1": 1,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "325": {
+        "num": 325,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "326": {
+        "num": 326,
+        "prod1": 0,
+        "prod2": 2,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "327": {
+        "num": 327,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "328": {
+        "num": 328,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "329": {
+        "num": 329,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "330": {
+        "num": 330,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "331": {
+        "num": 331,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "332": {
+        "num": 332,
+        "prod1": 2,
+        "prod2": 1,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "333": {
+        "num": 333,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "334": {
+        "num": 334,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "335": {
+        "num": 335,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "336": {
+        "num": 336,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "337": {
+        "num": 337,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "338": {
+        "num": 338,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 13
+    },
+    "339": {
+        "num": 339,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "340": {
+        "num": 340,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "341": {
+        "num": 341,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "342": {
+        "num": 342,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 1,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "343": {
+        "num": 343,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "344": {
+        "num": 344,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "345": {
+        "num": 345,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "346": {
+        "num": 346,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "347": {
+        "num": 347,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "348": {
+        "num": 348,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "349": {
+        "num": 349,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "350": {
+        "num": 350,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "351": {
+        "num": 351,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "352": {
+        "num": 352,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "353": {
+        "num": 353,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "354": {
+        "num": 354,
+        "prod1": 1,
+        "prod2": 0,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "355": {
+        "num": 355,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "356": {
+        "num": 356,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "357": {
+        "num": 357,
+        "prod1": 0,
+        "prod2": 1,
+        "prod3": 0,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "358": {
+        "num": 358,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    },
+    "359": {
+        "num": 359,
+        "prod1": 0,
+        "prod2": 0,
+        "prod3": 1,
+        "prod4": 0,
+        "cooked": false,
+        "received": false,
+        "hour": 14
+    }
+}

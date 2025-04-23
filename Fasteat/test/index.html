@@ -1,0 +1,202 @@
+﻿<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheet.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>2024文化祭食券システム</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Yuji+Boku&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <header class="title">
+        <a href="../index.html" id="logo"><img src="../webicon.png" alt="Fasteat" id="webicon"></a>
+    </header>
+    <div id="loader1"><div id="loader_inside"><div>Moving to test</div><br><br><div>Loading...</div></div></div>
+    <div id="loader2"><div id="loader_inside"><div id="loader_inside2">Moving to </div><br><br><div id="loader_inside3">Loading...</div></div></div>
+    <div id="hamberger_menu">
+        <input id="drawer_input" class="drawer_hidden" type="checkbox">
+        <label for="drawer_input" class="drawer_open"><span></span></label>
+        <nav class="nav_content">
+            <div class="nav_list">
+                <div class="nav_item"><a href="../index.html">ホーム</a></div>
+                <label for="num_input" class="nav_item"><span>番号確認</span><svg xmlns="http://www.w3.org/2000/svg" width="7.728" height="16.077" viewBox="0 0 7.728 16.077"><path d="M0,0,7.432,5.674,14.864,0" transform="translate(0.795 15.47) rotate(-90)" fill="none" stroke="#fff" stroke-width="2"></path></svg></label>
+                <a href="../history.html" class="nav_item">制作秘話</a>
+                <a href="" class="nav_item">ソフトウェア資料(近日公開)</a>
+                <a href="https://forms.gle/jDrzzdpKQyL9UJiQ8" class="nav_item">システムの利用を申し込む</a>
+                <!--<div class="nav_item"><a href="">モバイルオーダー</a></div>-->
+                <!--<div class="nav_item"><a href="">システムを申し込む<i class='bx bx-link-external'></i></a></div>-->
+            </div>
+            <input id="num_input" class="drawer_hidden" type="checkbox">
+            <div class="num_content">
+                <div class="sign">番号確認</div>
+                <div class="num_list">
+                    <label for="num_input" class="back"><span>戻る</span></label>
+                    <div class="scroll">
+                        <ul id="classlist"></ul>
+                    </div>
+                </div>
+            </div>
+<!--            <input id="morder_input" class="drawer_hidden" type="checkbox">
+            <div class="morder_content">
+                <div class="sign">モバイルオーダー</div>
+                <div class="morder_list">
+                    <label for="morder_input" class="back"><span>戻る</span></label>
+                    <div class="scroll">
+                        <ul>
+                            <li class="morder_item"><a href="">1</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                            <li class="morder_item"><a href="">2</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+-->
+        </nav>
+    </div>
+    <h1 id="title">
+        <span>2024</span><span>文化祭</span>
+        <span>3年test組</span>
+        <span>食券システム</span>
+    </h1>
+    <br>
+    <div class="text">
+        <p id="texttop">現在</p>
+        <p id="data"></p>
+        <p id="textbottom"><span>番まで</span><span>受け取り可能</span></p>
+    </div>
+    <div class="status">
+        <div id="order-stop"><span>只今不具合により、</span><span>一時販売を中止しています</span></div>
+        <div id="order-end"><span>本日の販売は</span><span>終了いたしました</span></div>
+        <div id="food-loss"><span>食材不足につき、</span><span>上記番号以降で</span><span>お待ちのお客様に</span><span>商品をお渡しできません。</span><span>詳しくは店頭のスタッフに</span><span>お尋ねください</span></div>
+    </div>
+    <div class="coution">
+        <ul>
+            <li class="coutioncontext"><span>推定待ち時間</span><span> = (自分の番号 - 現在の番号) × </span><span id="cooktime">5</span><span> (分)</span></li>
+            <li class="coutioncontext"><span>現在の最後尾:</span><span>推定</span><span id="waittime">5</span><span>分待ち</span></li>
+            <li class="coutioncontext"><span>推定待ち時間を</span><span>ご参考に、</span><span>どうぞお早めに</span><span>商品をお受け取りください</span></li>
+        </ul>
+    </div>
+
+
+
+    <script type="module">
+
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.4.0/firebase-app.js";
+        import { getFirestore, doc, getDoc, onSnapshot } from "https://www.gstatic.com/firebasejs/9.4.0/firebase-firestore.js";
+
+        const firebaseConfig = {
+            apiKey: "AIzaSyDMEqJhWCTGHACbVHSWrSMNjfqfO57halU",
+            authDomain: "fasteat-2d5fd.firebaseapp.com",
+            projectId: "fasteat-2d5fd",
+            storageBucket: "fasteat-2d5fd.appspot.com",
+            messagingSenderId: "979649202054",
+            appId: "1:979649202054:web:d38164694e9fe25d0e0e07",
+            measurementId: "G-XLZ81N5TBV"
+        };
+
+        const classnum="test";
+        const app = initializeApp(firebaseConfig);
+        const db = getFirestore(app);
+        const cn_docRef = doc(db, classnum, "currentnumber");
+        const non_docRef = doc(db, classnum, "nextordernumber");
+        const status_docRef = doc(db, classnum, "status");
+        const foodloss_docRef = doc(db, classnum, "foodloss");
+        const cooktime_docRef = doc(db, classnum, "cooktime");
+        const cn_docSnap = await getDoc(cn_docRef);
+        const non_docSnap = await getDoc(non_docRef);
+        const status_docSnap = await getDoc(status_docRef);
+        const foodloss_docSnap = await getDoc(foodloss_docRef);
+        const cooktime_docSnap = await getDoc(cooktime_docRef);
+        var dataVal = 0;
+        const onrepdata = document.getElementById("data");
+        const order_stop = document.getElementById("order-stop");
+        const order_end = document.getElementById("order-end");
+        const foodloss = document.getElementById("food-loss");
+        const cooktime = document.getElementById("cooktime");
+        const waittime = document.getElementById("waittime");
+        
+        if (cn_docSnap.exists()) {
+            dataVal = cn_docSnap.data().currentnumber;
+        } else {
+            alert("サーバーに接続できませんでした")
+        }
+        const cn_unsub = onSnapshot(cn_docRef, (doc) => {
+            onrepdata.innerHTML = doc.data().currentnumber;
+        });
+        const status_unsub = onSnapshot(status_docRef, (doc) => {
+            if (doc.data().status == 0) {
+                order_stop.classList.add("display_none");
+                order_end.classList.add("display_none");
+            } else if (doc.data().status == 1) {
+                order_stop.classList.remove("display_none");
+                order_end.classList.add("display_none");
+            } else if (doc.data().status == 2) {
+                order_stop.classList.add("display_none");
+                order_end.classList.remove("display_none");
+            }
+        });
+        const foodloss_unsub = onSnapshot(foodloss_docRef, (doc) => {
+            if (doc.data().foodloss) {
+                foodloss.classList.remove("display_none");
+            } else {
+                foodloss.classList.add("display_none");
+            }
+        });
+        const cooktime_unsub = onSnapshot(cooktime_docRef, (doc) => {
+            cooktime.innerHTML = doc.data().cooktime
+        })
+        const non_unsub = onSnapshot(non_docRef, (doc) => {
+            waittime.innerHTML = (doc.data().nextordernumber - 1 - onrepdata.innerHTML) * Number(cooktime.innerHTML);
+        })
+
+
+        let valueDisplays = document.querySelectorAll("#data");
+        let interval = 1000;
+
+        valueDisplays.forEach((valueDisplay) => {
+        if(dataVal!=0){
+            let startValue = 0;
+            let endValue = dataVal;
+            let duration = Math.floor(interval / endValue);
+            let counter = setInterval(function () {
+                startValue += 1;
+                valueDisplay.textContent = startValue;
+                if (startValue == endValue) {
+                    clearInterval(counter);
+                }
+            }, duration);}
+        });
+    </script>
+    <script>
+        window.onload = function () {
+            function disableScroll(event) {
+                event.preventDefalut();
+            }
+            document.addEventListener("touchmove", disableScroll, { passive: false });
+        }
+    </script>
+    <script src="../index.js"></script>
+</body>
+</html>
